@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "gs-online",
+            "file": "https://raw.githubusercontent.com/srmeier/gs-online/master/client/gs-online/file/gs-online.tar.gz",
+            "shots": "https://raw.githubusercontent.com/srmeier/gs-online/master/client/gs-online/shots/gs-online.png"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "list": [
+        {
+            "title": "client",
+            "file": "https://raw.githubusercontent.com/srmeier/gs-online/master/client/index.json",
+            "type": "dir"
+        }
+    ]
+}
